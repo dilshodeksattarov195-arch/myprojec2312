@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfave",
+        "uuid": 21418368,
+        "checksum": "mgo0gd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
